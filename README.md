@@ -4,3 +4,9 @@ then the boiler plate comes into topic and  I learned it.
 then i made this again because i got to know it can't host itself without boilet plate.
 Well after that we have some things to figure out like how the css is not working.
 then we change tweak all the things inside it the internet gif finds i donwloaded it and run it locally through source elemeents.
+types of tag element were used in this project.
+Heading 1 and heading 2.
+Paragraph tag element.
+Unordered list element and list tag element.
+Anchor elemet
+Source Element.
